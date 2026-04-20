@@ -1,4 +1,3 @@
-# acc102-roe-analysis-to
 # ACC102 Track4: Listed Company ROE Comparison Tool
 ## 1. Problem & Target User
 This tool helps business students and retail investors quickly compare the ROE (Return on Equity) and revenue trends of Apple and Microsoft, solving the pain point of manually sorting and visualizing financial data.
@@ -23,13 +22,13 @@ This tool helps business students and retail investors quickly compare the ROE (
 ## 5. How to Run Locally
 1. Clone this repository to your computer
 2. Open the command line and enter the project folder
-3. Install dependencies: `pip install streamlit pandas numpy plotly openpyxl`
+3. Install dependencies: `pip install -r requirements.txt`
 4. Run the app: `streamlit run app.py`
 5. View the tool in your browser
 
 ## 6. Demo Video Link
-你的演示视频链接
+[You will fill your demo video link here later]
 
 ## 7. Limitations & Next Steps
 - Limitations: Only covers two companies, data is sample data, no real-time update
-- Next steps: Add more companies, use real Yahoo Finance data, add more financial indicators
+- Next steps: Add more companies and industries, use real Yahoo Finance data, add more financial indicators like gross profit margin and asset-liability ratio

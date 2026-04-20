@@ -27,7 +27,7 @@ This tool helps business students and retail investors quickly compare the ROE (
 5. View the tool in your browser
 
 ## 6. Demo Video Link
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116436244632850&bvid=BV1dWoKBJE8o&cid=37662556549&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+【xlg206_acc102-roe-analysis-tool】 https://www.bilibili.com/video/BV1dWoKBJE8o/?share_source=copy_web&vd_source=7fbfb78dfee119bdcbce03001db7f3ec
 
 ## 7. Limitations & Next Steps
 - Limitations: Only covers two companies, data is sample data, no real-time update
